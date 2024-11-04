@@ -38,5 +38,5 @@ void loop() {
   // Store the current signal as the last signal for the next loop iteration
   lastSignal = Signal;
 
-  delay(20);  // Wait for a short time before the next loop iteration
+  delay(20); 
 }
